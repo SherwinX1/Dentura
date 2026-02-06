@@ -1,0 +1,13 @@
+footer {
+  background-color: #0085be; /* Set the background color */
+  width: 100%; /* Ensure it takes full width */
+  margin: 0; /* Remove default margins */
+}
+
+.footer-icon i {
+  color: #ffffff; /* Darker shade as the default color */
+}
+
+.footer-icon:hover i {
+  color: #0074b5; /* Slightly lighter shade on hover */
+}

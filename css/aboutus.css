@@ -1,0 +1,48 @@
+.about-us h1 {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #0085b5; /* Changed from #0085BE to #0085B5 */
+}
+
+.about-us p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #333;
+}
+
+.mission-section h2,
+.team-section h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #0085b5; /* Ensure consistency across other headings */
+}
+
+.mission-section p {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+.team-section h5 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #333;
+}
+
+.team-section p {
+  font-size: 1rem;
+  color: #666;
+}
+
+img.rounded-circle {
+  border: 5px solid #0085b5; /* Change the border color to match the heading */
+}
+
+.expert-title {
+  color: #0085b5;
+  font-size: 20px;
+}
+
+.fading-border {
+  border: 3px solid; /* Initial border */
+  border-image: linear-gradient(45deg, #0085b5, rgba(0, 133, 181, 0.2)) 1; /* Gradient border */
+}
