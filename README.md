@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="den1" src="https://github.com/user-attachments/assets/2c116bd8-c69e-455e-94dd-94e7ac7153ef" /># Denture 🦷
+# Denture 🦷
 A booking system for dental clinics built with PHP and Bootstrap.
 
 Denture is a web-based appointment booking system created as a project in 2024. It helps dental clinics manage appointments efficiently while giving patients a simple and accessible booking experience.
@@ -31,5 +31,7 @@ This project was developed for educational and project-based purposes. It demons
 - Modern web browser
 
 
-<img width="1920" height="1080" alt="den1" src="https://github.com/user-attachments/assets/38627bfc-3284-42f2-be3b-8aa16af45d4c" />
-<img width="1920" height="1080" alt="den2" src="https://github.com/user-attachments/assets/194da059-a021-4729-98db-169549a926d9" />
+<img width="1885" height="1008" alt="image" src="https://github.com/user-attachments/assets/a167e67e-57e7-4533-9528-62b3230b282d" />
+<img width="1885" height="997" alt="image" src="https://github.com/user-attachments/assets/a4636c4e-e236-42b2-ba4d-82c644c38d5f" />
+
+
